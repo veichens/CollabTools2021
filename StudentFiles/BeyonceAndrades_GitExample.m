@@ -1,6 +1,6 @@
 clear
 clc
-%ask user for resistance and voltage source inputs
+%don't ask user for resistance and voltage source inputs
 r1 = input('What is R_1(ohms)? ');
 r2 = input('What is R_2(ohms)? ');
 r3 = input('What is R_3(ohms)? ');
