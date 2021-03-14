@@ -1,1 +1,1 @@
-This is my document. My name is Cameron.
+This is my document, and my name is Cameron.
